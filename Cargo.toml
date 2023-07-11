@@ -8,4 +8,4 @@ edition = "2021"
 [dependencies]
 
 [[example]]
-name="simple_math_add"
+name="simple_math_addition"
